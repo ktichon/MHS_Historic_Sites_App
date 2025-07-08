@@ -1,6 +1,6 @@
-# MHS Historic Sites App: Privacy Policy
+# MHS InSite: Privacy Policy
 
-Welcome to privacy policy for the MHS Historic Sites App for Android! It is a very unintrusive app, and thus this will be a very short policy to go over.
+Welcome to privacy policy for the MHS InSite for Android! It is a very unintrusive app, and thus this will be a very short policy to go over.
 
 # Data collected by the app
 The app is not programed to collect any data from the users.
